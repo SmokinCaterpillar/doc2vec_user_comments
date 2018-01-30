@@ -1,4 +1,4 @@
-# Analysis of Online User comments with gensim Doc2Vec
+# Analysis of user comments with gensim Doc2Vec
 
 Doc2Vec is a nice neural network framework for text analysis. The machine learning technique computes so called document and word embeddings, i.e. vector representations of documents and words. These representations can be used to uncover semantic relations. For instance, Doc2Vec may learn that the word "King" is similar to "Queen" but less so to "Database".
 
